@@ -302,3 +302,16 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+html { 
+    font-family: 'Noto Sans TC', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform: none;
+}
+body { 
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.stubheading { 
+     font-family: 'Noto Sans TC', sans-serif;
+}
